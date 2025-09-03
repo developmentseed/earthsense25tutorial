@@ -20,8 +20,8 @@ project:
       children:
         - file: 00_setup.ipynb
         - file: 01_stac_and_zarr.ipynb
-        - file: 02_EOFM_intro.ipynb
-        - file: 03_EOFM_finetune.ipynb
+        - file: 02_EOFM_intro.md
+        - file: 03_EOFM_finetuning.ipynb
 site:
   template: book-theme
   options:
