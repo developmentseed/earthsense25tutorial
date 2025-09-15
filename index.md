@@ -20,7 +20,6 @@ below to launch on
 [Google Colaboratory](https://colab.google).
 
 Notebooks
-- **Setup for EarthSense 2025 workshop** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developmentseed/earthsense25tutorial/blob/main/00_setup.ipynb)
 - **Exploring Cloud Native Geospatial Data Formats with ERA5 Reanalysis Data** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developmentseed/earthsense25tutorial/blob/main/01_stac_and_zarr.ipynb)
 - **Fine-tuning Clay Foundation Model for Land Cover Segmentation** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developmentseed/earthsense25tutorial/blob/main/03_EOFM_finetuning.ipynb)
 
