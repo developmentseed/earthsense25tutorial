@@ -19,12 +19,10 @@ To run these notebooks in an interactive Jupyter session online, 🖱️ click o
 below to launch on
 [Google Colaboratory](https://colab.google).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developmentseed/earthsense25tutorial/blob/main/01_stac_and_zarr.ipynb)
-
-Alternatively, you can choose to run the Jupyter notebooks on another cloud provider
-with GPU instances such as [Sagemaker Studio Lab](https://studiolab.sagemaker.aws).
-
-[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/developmentseed/earthsense25tutorial/blob/main/01_stac_and_zarr.ipynb)
+Notebooks
+- **Setup for EarthSense 2025 workshop** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developmentseed/earthsense25tutorial/blob/main/00_setup.ipynb)
+- **Exploring Cloud Native Geospatial Data Formats with ERA5 Reanalysis Data** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developmentseed/earthsense25tutorial/blob/main/01_stac_and_zarr.ipynb)
+- **Fine-tuning Clay Foundation Model for Land Cover Segmentation** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/developmentseed/earthsense25tutorial/blob/main/03_EOFM_finetuning.ipynb)
 
 ### 💻 Creating a local environment for running tutorials
 

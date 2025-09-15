@@ -1,6 +1,8 @@
 # EarthSense 2025 tutorial: GeoAI in the Cloud: From Data Formats to Foundation Models
 
-[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://www.developmentseed.org/earthsense25tutorial)
+**🌐 Tutorial Website:** https://developmentseed.org/earthsense25tutorial/
+
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://developmentseed.org/earthsense25tutorial)
 [![MyST GitHub Pages Deploy](https://github.com/developmentseed/earthsense25tutorial/actions/workflows/deploy.yml/badge.svg)](https://github.com/developmentseed/earthsense25tutorial/actions/workflows/deploy.yml)
 
 Material for GeoAI in the Cloud at EarthSense 2025

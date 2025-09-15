@@ -1,10 +1,11 @@
 [project]
-name = "igarss25tutorial"
+name = "earthsense25tutorial"
 version = "0.1.0"
-description = "IGARSS 2025 tutorial: Harnessing the Power of Earth Foundation Models"
+description = "EarthSense 2025 tutorial: GeoAI in the Cloud"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "dask>=2025.9.0",
     "earthaccess>=0.14.0",
     "einops>=0.8.1",
     "geopandas>=1.0.1",
@@ -12,6 +13,8 @@ dependencies = [
     "jupyterlab>=4.4.4",
     "matplotlib>=3.10.3",
     "numpy>=2.3.1",
+    "planetary-computer>=1.0.0",
+    "pyarrow>=19.0.1",
     "pystac-client>=0.8.6",
     "python-box>=7.3.2",
     "rioxarray>=0.19.0",
@@ -20,6 +23,8 @@ dependencies = [
     "terratorch>=1.0.2",
     "torch>=2.7.0",
     "torchvision>=0.22.0",
+    "xarray>=2025.9.0",
+    "zarr>=3.1.2",
 ]
 
 [project.optional-dependencies]
